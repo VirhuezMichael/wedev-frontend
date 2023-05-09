@@ -1,9 +1,8 @@
 import React from 'react';
 import GlobalStyle from './styles/GlobalStyle';
-import NavBar from './components/Navbar';
+import NavBar from './components/NavBar';
 import AboutUs from './components/AboutUs';
 import Services from './components/Services';
-// import Clients from './components/Clients';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -14,7 +13,6 @@ function App() {
       <NavBar />
       <AboutUs />
       <Services />
-      {/* <Clients /> */}
       <Contact />
       <Footer/>
     </>

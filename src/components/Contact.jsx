@@ -101,6 +101,7 @@ const ContactContainer = styled.section`
   color: #343a40;
   padding: 5rem;
   text-align: center;
+  background-size: cover;
 `;
 
 const ContactTitle = styled.h2`

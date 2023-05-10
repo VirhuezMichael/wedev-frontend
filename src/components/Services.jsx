@@ -10,6 +10,7 @@ const ServiceContainer = styled.div`
   padding: 100px 0;
   /* background-color:#63203d ; For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #892e54, #63203d);
+  text-align: center;
 `;
 
 const ServiceTitle = styled.h2`
@@ -120,6 +121,7 @@ const Service = () => {
             </ServiceInfo>
           </ServiceCard>
         </ServiceWrapper>
+        <h3>* Sección en construcción, póngase en contacto dejándonos su mensaje</h3>
       </ServiceContainer>
      </Element>
   );

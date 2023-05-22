@@ -65,7 +65,7 @@ const Footer = () => {
         <StyledIconLink href="https://www.linkedin.com/in/we-dev-a29a3b277/" target="_blank">
           <LinkedInIcon />
         </StyledIconLink>
-        <StyledIconLink href="https://www.instagram.com/we.dev.sj/" target="_blank">
+        <StyledIconLink href="https://instagram.com/we.dev.sj?igshid=MzRlODBiNWFlZA==" target="_blank">
           <InstagramIcon />
         </StyledIconLink>
         <StyledIconLink href="https://www.whatsapp.com/" target="_blank">
